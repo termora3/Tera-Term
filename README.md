@@ -30,4 +30,4 @@ The macro system also supports diagnostic and monitoring workflows. For example,
 
 When designing macros, specialists should consider authentication security, command timing, and device response behavior. Remote systems may require delays between commands, confirmation prompts, or different output formats. Proper handling of these conditions prevents incomplete configurations and unexpected results.
 
-The combination of interactive terminal access and scripting makes Tera-Term suitable for both manual administration and controlled automation. IT teams can use it for routine maintenance, hardware testing, deployment preparation, and operational procedures where repeatability and accurate command execution are important.
+The combination of interactive terminal capabilities and scripting support makes Tera Term a versatile tool for both hands-on system administration and structured automation tasks. IT teams can leverage it for routine maintenance, hardware validation, deployment preparation, and operational workflows that require consistent execution and reliable command control.
